@@ -130,6 +130,7 @@ dmypy.json
 
 #MacOS settings
 .DS_Store
+.DS-Store/
 
 #Database
 db.sqlite3
